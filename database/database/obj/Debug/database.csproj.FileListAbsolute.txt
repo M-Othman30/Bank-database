@@ -1,0 +1,60 @@
+C:\Users\pc-3\source\repos\database\database\bin\Debug\database.exe.config
+C:\Users\pc-3\source\repos\database\database\bin\Debug\database.exe
+C:\Users\pc-3\source\repos\database\database\bin\Debug\database.pdb
+C:\Users\pc-3\source\repos\database\database\obj\Debug\database.csproj.AssemblyReference.cache
+C:\Users\pc-3\source\repos\database\database\obj\Debug\database.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc-3\source\repos\database\database\obj\Debug\database.Form1.resources
+C:\Users\pc-3\source\repos\database\database\obj\Debug\database.Properties.Resources.resources
+C:\Users\pc-3\source\repos\database\database\obj\Debug\database.csproj.GenerateResource.cache
+C:\Users\pc-3\source\repos\database\database\obj\Debug\database.csproj.CoreCompileInputs.cache
+C:\Users\pc-3\source\repos\database\database\obj\Debug\database.exe
+C:\Users\pc-3\source\repos\database\database\obj\Debug\database.pdb
+C:\Users\pc-3\source\repos\database\database\obj\Debug\database.Admin_Page.resources
+C:\Users\pc-3\source\repos\database\database\obj\Debug\database.SignUp.resources
+C:\Users\pc-3\source\repos\database\database\obj\Debug\database.Employee_Page.resources
+C:\Users\pc-3\source\repos\database\database\obj\Debug\database.Employee_SignUp.resources
+C:\Users\pc-3\source\repos\database\database\obj\Debug\database.Admin_Work.resources
+C:\Users\pc-3\source\repos\database\database\obj\Debug\database.ADD_BANK.resources
+C:\Users\pc-3\source\repos\database\database\obj\Debug\database.ADD_BRANCH.resources
+C:\Users\pc-3\source\repos\database\database\obj\Debug\database.UPDATE_Admin.resources
+C:\Users\pc-3\source\repos\database\database\obj\Debug\database.Employee_Works.resources
+C:\Users\pc-3\source\repos\database\database\obj\Debug\database.Update_Employee.resources
+C:\Users\pc-3\source\repos\database\database\obj\Debug\database.Add_Customer.resources
+C:\Users\pc-3\source\repos\database\database\obj\Debug\database.Customer_Page.resources
+C:\Users\pc-3\source\repos\database\database\obj\Debug\database.CreateBankAC.resources
+C:\Users\pc-3\source\repos\database\database\obj\Debug\database.Customer_work.resources
+C:\Users\pc-3\source\repos\database\database\obj\Debug\database.Loan.resources
+C:\Users\pc-3\source\repos\database\database\obj\Debug\database.ShowCustomer.resources
+C:\Users\pc-3\source\repos\database\database\obj\Debug\database.LoanList.resources
+C:\Users\pc-3\source\repos\database\database\obj\Debug\database.My_Loans.resources
+C:\Users\pc-3\source\repos\database\database\obj\Debug\database.Query.resources
+D:\FCAI-2.2\DATA BASE (DONE)\20200459_project-Bank\database\database\bin\Debug\database.exe.config
+D:\FCAI-2.2\DATA BASE (DONE)\20200459_project-Bank\database\database\bin\Debug\database.exe
+D:\FCAI-2.2\DATA BASE (DONE)\20200459_project-Bank\database\database\bin\Debug\database.pdb
+D:\FCAI-2.2\DATA BASE (DONE)\20200459_project-Bank\database\database\obj\Debug\database.csproj.AssemblyReference.cache
+D:\FCAI-2.2\DATA BASE (DONE)\20200459_project-Bank\database\database\obj\Debug\database.csproj.SuggestedBindingRedirects.cache
+D:\FCAI-2.2\DATA BASE (DONE)\20200459_project-Bank\database\database\obj\Debug\database.ADD_BANK.resources
+D:\FCAI-2.2\DATA BASE (DONE)\20200459_project-Bank\database\database\obj\Debug\database.ADD_BRANCH.resources
+D:\FCAI-2.2\DATA BASE (DONE)\20200459_project-Bank\database\database\obj\Debug\database.Add_Customer.resources
+D:\FCAI-2.2\DATA BASE (DONE)\20200459_project-Bank\database\database\obj\Debug\database.Admin_Page.resources
+D:\FCAI-2.2\DATA BASE (DONE)\20200459_project-Bank\database\database\obj\Debug\database.Admin_Work.resources
+D:\FCAI-2.2\DATA BASE (DONE)\20200459_project-Bank\database\database\obj\Debug\database.CreateBankAC.resources
+D:\FCAI-2.2\DATA BASE (DONE)\20200459_project-Bank\database\database\obj\Debug\database.Customer_Page.resources
+D:\FCAI-2.2\DATA BASE (DONE)\20200459_project-Bank\database\database\obj\Debug\database.Customer_work.resources
+D:\FCAI-2.2\DATA BASE (DONE)\20200459_project-Bank\database\database\obj\Debug\database.Employee_Page.resources
+D:\FCAI-2.2\DATA BASE (DONE)\20200459_project-Bank\database\database\obj\Debug\database.Employee_SignUp.resources
+D:\FCAI-2.2\DATA BASE (DONE)\20200459_project-Bank\database\database\obj\Debug\database.Employee_Works.resources
+D:\FCAI-2.2\DATA BASE (DONE)\20200459_project-Bank\database\database\obj\Debug\database.Form1.resources
+D:\FCAI-2.2\DATA BASE (DONE)\20200459_project-Bank\database\database\obj\Debug\database.Loan.resources
+D:\FCAI-2.2\DATA BASE (DONE)\20200459_project-Bank\database\database\obj\Debug\database.LoanList.resources
+D:\FCAI-2.2\DATA BASE (DONE)\20200459_project-Bank\database\database\obj\Debug\database.My_Loans.resources
+D:\FCAI-2.2\DATA BASE (DONE)\20200459_project-Bank\database\database\obj\Debug\database.Properties.Resources.resources
+D:\FCAI-2.2\DATA BASE (DONE)\20200459_project-Bank\database\database\obj\Debug\database.SignUp.resources
+D:\FCAI-2.2\DATA BASE (DONE)\20200459_project-Bank\database\database\obj\Debug\database.Query.resources
+D:\FCAI-2.2\DATA BASE (DONE)\20200459_project-Bank\database\database\obj\Debug\database.ShowCustomer.resources
+D:\FCAI-2.2\DATA BASE (DONE)\20200459_project-Bank\database\database\obj\Debug\database.UPDATE_Admin.resources
+D:\FCAI-2.2\DATA BASE (DONE)\20200459_project-Bank\database\database\obj\Debug\database.Update_Employee.resources
+D:\FCAI-2.2\DATA BASE (DONE)\20200459_project-Bank\database\database\obj\Debug\database.csproj.GenerateResource.cache
+D:\FCAI-2.2\DATA BASE (DONE)\20200459_project-Bank\database\database\obj\Debug\database.csproj.CoreCompileInputs.cache
+D:\FCAI-2.2\DATA BASE (DONE)\20200459_project-Bank\database\database\obj\Debug\database.exe
+D:\FCAI-2.2\DATA BASE (DONE)\20200459_project-Bank\database\database\obj\Debug\database.pdb
